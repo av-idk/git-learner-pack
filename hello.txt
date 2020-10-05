@@ -10,3 +10,5 @@ name of 5 fruits ----
 5.grapesy
 
 now lets make a salad!!!!!!
+
+now take a mango and cut it into pieces
